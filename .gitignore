@@ -1,0 +1,21 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Configuración de editores
+.vscode/
+
+# PyInstaller
+build/
+dist/
+
+# Archivos temporales
+*.spec~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
